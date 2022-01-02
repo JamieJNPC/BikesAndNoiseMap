@@ -1,0 +1,20 @@
+{
+  "name": "bikesandnoisemap",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "firebase": "^9.5.0",
+    "firebase-admin": "^10.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1"
+  }
+}
